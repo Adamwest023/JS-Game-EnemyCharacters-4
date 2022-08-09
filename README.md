@@ -1,9 +1,9 @@
 # JS-Game-EnemyCharacters-3
 
-code base animating a third enemy character using vanilla JavaScript.
+code base animating a fourth enemy character using vanilla JavaScript.
 
 # About
-This project incorporates Sin and Cosine to give the enemy sprite a random movement on a path. Math.Random is used to give both height and width directions variety in each individual sprite. 
+This project incorporates Math.random to add a new c and y position to each enemy sprite to create a random movement. 
 
 # Tools
 Used canvas and canvas methods to create a template in which to render our spites on.
